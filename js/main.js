@@ -41,7 +41,7 @@ $('#nav').affix({
 	var index=0;
 	$(document).scroll(function(){
 		var top = $('#skills').height()-$(window).scrollTop();
-		console.log(top)
+		// console.log(top)
 		if(top<-1000){
 			if(index==0){	
 			
