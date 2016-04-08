@@ -174,9 +174,6 @@ ul, ol {
 .intro .intro-body .intro-text {
 	font-size: 18px;
 }
-/*.titles {
-	letter-spacing: 3px;
-}*/
 .section-title.center {
 	padding: 30px 0;
 }
@@ -256,6 +253,13 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', end
 .categories {
 	padding-bottom: 30px;
 	text-align: center;
+}
+.skills {
+	height: 40px;
+	text-align: left;
+}
+.progress {
+	margin-top: 10px;
 }
 ul.cat li {
 	display: inline-block;
